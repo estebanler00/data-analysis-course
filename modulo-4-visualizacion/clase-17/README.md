@@ -6,7 +6,7 @@ Ese es el problema central de esta clase: calcular bien un dato no garantiza que
 
 ## Antes de empezar: matplotlib y seaborn
 
-En clases anteriores trabajaste con **matplotlib**, la librería de Python más usada para crear gráficos. Matplotlib te da control total sobre cada elemento del gráfico —cada línea, cada color, cada texto— pero justamente por eso, a veces requiere bastante código para lograr un resultado prolijo.
+En clases anteriores trabajaste con **matplotlib**, la librería de Python más usada para crear gráficos. Matplotlib te da control total sobre cada elemento del gráfico —cada línea, cada color, cada texto— pero justamente por eso, a veces requiere bastante código para lograr un resultado claro.
 
 En esta clase vamos a incorporar **seaborn**, otra librería para crear gráficos que en realidad está construida *sobre* matplotlib. Es decir, seaborn no reemplaza a matplotlib: lo usa por debajo, pero te ofrece funciones más simples para los tipos de gráficos que se usan con más frecuencia en análisis de datos, y aplica automáticamente un estilo visual más cuidado (colores, proporciones, tipografía) sin que tengas que configurarlo a mano.
 
@@ -19,13 +19,13 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 ```
 
-`sns` es el alias que se usa por convención para seaborn, de la misma forma que `plt` es el alias habitual para matplotlib. Vas a ver ambos en el resto del artículo, porque muchas veces se usa seaborn para generar el gráfico y matplotlib para ajustar detalles finales.
+`sns` es el alias que se usa por convención para seaborn, de la misma forma que `plt` es el alias habitual para matplotlib. Verás ambos en el resto del artículo, porque muchas veces se usa seaborn para generar el gráfico y matplotlib para ajustar detalles finales.
 
 ## Personalización de gráficos
 
 El gráfico que aparece "por defecto" al usar cualquier librería está pensado para que tú, como analista, explores los datos rápidamente mientras trabajas. No está pensado para que otra persona, que nunca vio esos datos, entienda algo en pocos segundos. Personalizar un gráfico no significa "hacerlo más lindo": significa quitar todo lo que no ayuda a leer el mensaje, y reforzar lo que sí ayuda.
 
-Piénsalo de esta manera: cada elemento visual que agregas —un color, una anotación, una línea de referencia— le está pidiendo atención a quien mira el gráfico. Si le pides atención para diez cosas a la vez, en realidad no se la diste a ninguna. Personalizar bien un gráfico es, sobre todo, decidir qué cosas **no** mostrar.
+Piensa en esto: cada elemento visual que agregas —un color, una anotación, una línea de referencia— le está pidiendo atención a quien mira el gráfico. Si le pides atención para diez cosas a la vez, en realidad no se la diste a ninguna. Personalizar bien un gráfico es, sobre todo, decidir qué cosas **no** mostrar.
 
 ### Aplicándolo con matplotlib
 
@@ -93,7 +93,7 @@ ax.patches[mes_pico].set_facecolor("#2E86AB")  # resaltamos la barra del mes pic
 ax.set_title("Diciembre concentró el 22% de los ingresos del año", loc="left", weight="bold")
 ```
 
-Fíjate que seguimos usando `ax` y varias funciones de matplotlib (`set_title`, `ax.patches`) para ajustar detalles, aunque el gráfico en sí lo generó seaborn con `sns.barplot()`. Esa combinación es completamente normal: en la práctica, seaborn se usa para crear el gráfico de base de forma rápida, y matplotlib para pulir los detalles finales.
+Observa que seguimos usando `ax` y varias funciones de matplotlib (`set_title`, `ax.patches`) para ajustar detalles, aunque el gráfico en sí lo generó seaborn con `sns.barplot()`. Esa combinación es completamente normal: en la práctica, seaborn se usa para crear el gráfico de base de forma rápida, y matplotlib para pulir los detalles finales.
 
 En resumen, la personalización útil casi siempre se reduce a cuatro decisiones, sea que uses matplotlib o seaborn: qué destacas con color, qué texto reemplazas por una conclusión en lugar de una descripción, qué elementos quitas, y qué escala usas en los ejes. Un eje Y que no comienza en cero, por ejemplo, puede exagerar una diferencia que en la realidad es pequeña, y eso ya no es personalización: es inducir a un error de lectura.
 
@@ -113,7 +113,7 @@ Algunas reglas que se cumplen en la gran mayoría de los casos:
 
 ### Aplicándolo con matplotlib y seaborn
 
-Veamos el caso típico de "torta contra barra horizontal ordenada" usando el mismo dato. Con matplotlib:
+Veamos el caso típico de "gráfico circular contra barra horizontal ordenada" usando el mismo dato. Con matplotlib:
 
 ```python
 categorias = pd.read_csv("practica/ventas_por_categoria.csv")
@@ -125,7 +125,7 @@ ax.set_title("Electrónica lidera con más del doble que la segunda categoría",
 ax.set_xlabel("Ingresos (ARS)")
 ```
 
-Con seis categorías, esa barra horizontal ordenada se lee en pocos segundos. La misma información en un gráfico de torta obliga a comparar ángulos entre sectores parecidos, y eso —salvo que exista una sola categoría claramente dominante— exige mucho más esfuerzo del que parece a primera vista.
+Con seis categorías, esa barra horizontal ordenada se lee en pocos segundos. La misma información en un gráfico circular obliga a comparar ángulos entre sectores parecidos, y eso —salvo que exista una sola categoría claramente dominante— exige mucho más esfuerzo del que parece a primera vista.
 
 Seaborn incluye una función pensada específicamente para comparar distribuciones y categorías con menos código. Por ejemplo, para el mismo gráfico de barras horizontal:
 
@@ -169,9 +169,9 @@ La estructura que funciona en la gran mayoría de los contextos de negocio tiene
 
 ### Aplicándolo en un caso concreto
 
-Tomemos el dataset de ventas mensuales y armemos el recorrido completo, esta vez pensando en la estructura, no solo en el gráfico.
+Tomemos el conjunto de datos de ventas mensuales y construyamos el recorrido completo, esta vez pensando en la estructura, no solo en el gráfico.
 
-*Contexto*: "El equipo comercial quiere saber si conviene reforzar el stock de cara a diciembre, o si el pico de fin de año se puede cubrir con el inventario actual."
+*Contexto*: "El equipo comercial quiere saber si conviene reforzar el inventario para diciembre, o si el pico de fin de año se puede cubrir con el inventario actual."
 
 *Hallazgo*: "Diciembre concentra el 22% de los ingresos anuales, casi el triple del promedio mensual, y ese patrón se repite en los últimos tres años."
 
@@ -194,8 +194,8 @@ ax.spines[["top", "right"]].set_visible(False)
 
 ![imagen03](../../assets/clase-17/imagen03-clase17.png)
 
-Fíjate que ninguno de los gráficos de esta sección es técnicamente distinto de los que ya sabías armar antes. Lo que cambia es el orden en el que se los presentas a alguien, y que cada gráfico cumple un rol específico dentro de un argumento, en lugar de estar ahí simplemente porque "quedaba bien".
+Observa que ninguno de los gráficos de esta sección es técnicamente distinto de los que ya sabías crear antes. Lo que cambia es el orden en el que se los presentas a alguien, y que cada gráfico cumple un rol específico dentro de un argumento, en lugar de estar ahí simplemente porque "se veía bien".
 
 ## Para la práctica
 
-En la carpeta `practica/` vas a encontrar los datasets (`ventas_mensuales.csv`, `ventas_por_categoria.csv`, `variacion_mensual.csv`, `ventas_historico_3anios.csv`) y una serie de ejercicios que te van a pedir, antes que nada, decidir qué tipo de gráfico corresponde y cuál es la única frase que ese gráfico debería demostrar. Recién después, llega el código.
+En la carpeta `practica/` encontrarás los conjuntos de datos (`ventas_mensuales.csv`, `ventas_por_categoria.csv`, `variacion_mensual.csv`, `ventas_historico_3anios.csv`) y una serie de ejercicios que te pedirán, antes que nada, decidir qué tipo de gráfico corresponde y cuál es la única frase que ese gráfico debería demostrar. Recién después, llega el código.
