@@ -1,0 +1,341 @@
+fecha,hotel,ciudad,categoria_hotel,rating_usuario,review,motivo_viaje,procedencia
+2025-10-01,Hotel Costa Azul,Mar del Plata,3,3,"La habitación era correcta, el check-in tardó más de lo normal.",Familia,Colombia
+2025-10-01,Hotel Faro Viejo,Puerto Madryn,3,5,"El desayuno fue espectacular, variedad y muy buena calidad.",Familia,Chile
+2025-10-01,Posada del Sol,Salta,3,1,Wifi prácticamente inexistente durante toda la estadía.,Pareja,España
+2025-10-03,Gran Hotel Andes,Bariloche,5,2,Wifi prácticamente inexistente durante toda la estadía.,Pareja,Brasil
+2025-10-03,Boutique Palermo Suites,Buenos Aires,4,4,"Excelente atención del personal, superó todas nuestras expectativas.",Familia,México
+2025-10-03,Hotel Río Claro,Mendoza,4,4,"El spa y la pileta fueron un lujo, superó lo que esperábamos.",Negocios,Chile
+2025-10-04,Hostal Las Termas,Termas de Río Hondo,2,2,"El personal fue muy poco atento, tuvimos que reclamar varias veces.",Solo,Chile
+2025-10-04,Hotel Faro Viejo,Puerto Madryn,3,4,"El desayuno fue espectacular, variedad y muy buena calidad.",Amigos,España
+2025-10-04,Hotel Costa Azul,Mar del Plata,3,4,"Muy limpio, silencioso y con un check-in rapidísimo, encantados.",Solo,México
+2025-10-05,Hotel Costa Azul,Mar del Plata,3,4,"Muy limpio, silencioso y con un check-in rapidísimo, encantados.",Familia,Colombia
+2025-10-05,Hostal Las Termas,Termas de Río Hondo,2,2,Cobraron cargos que no estaban avisados al momento de reservar.,Solo,Colombia
+2025-10-05,Hotel Faro Viejo,Puerto Madryn,3,4,"Habitación impecable, muy cómoda y con una vista hermosa.",Amigos,México
+2025-10-05,Hotel Costa Azul,Mar del Plata,3,1,Cobraron cargos que no estaban avisados al momento de reservar.,Solo,Chile
+2025-10-06,Boutique Palermo Suites,Buenos Aires,4,2,La pileta estaba cerrada todo el fin de semana sin previo aviso.,Pareja,Chile
+2025-10-06,Hotel Río Claro,Mendoza,4,4,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Solo,Uruguay
+2025-10-06,Hotel Río Claro,Mendoza,4,5,"El desayuno fue espectacular, variedad y muy buena calidad.",Negocios,México
+2025-10-06,Hostal Las Termas,Termas de Río Hondo,2,3,"Es un hotel funcional, no lo elegiría de nuevo pero tampoco fue malo.",Familia,Brasil
+2025-10-06,Cabañas del Bosque,El Calafate,4,1,Wifi prácticamente inexistente durante toda la estadía.,Familia,Brasil
+2025-10-06,Hostal Las Termas,Termas de Río Hondo,2,4,"Muy limpio, silencioso y con un check-in rapidísimo, encantados.",Amigos,Colombia
+2025-10-06,Cabañas del Bosque,El Calafate,4,1,Cobraron cargos que no estaban avisados al momento de reservar.,Pareja,Brasil
+2025-10-06,Hotel Río Claro,Mendoza,4,2,"Habitación sucia y con olor a humedad, no lo recomiendo.",Negocios,México
+2025-10-07,Hotel Central Plaza,Córdoba,3,1,Wifi prácticamente inexistente durante toda la estadía.,Negocios,Brasil
+2025-10-07,Hotel Faro Viejo,Puerto Madryn,3,4,"El spa y la pileta fueron un lujo, superó lo que esperábamos.",Negocios,España
+2025-10-08,Hotel Costa Azul,Mar del Plata,3,1,"Muy buena ubicación y personal amable, el problema fue solo el ruido de la calle que no nos dejó dormir.",Negocios,Brasil
+2025-10-09,Hotel Costa Azul,Mar del Plata,3,2,Wifi prácticamente inexistente durante toda la estadía.,Solo,Brasil
+2025-10-09,Hotel Central Plaza,Córdoba,3,2,Cobraron cargos que no estaban avisados al momento de reservar.,Negocios,Colombia
+2025-10-09,Hostal Las Termas,Termas de Río Hondo,2,5,"Nada especial la verdad, hotel de paso, pero cumplió y no tenemos grandes quejas.",Negocios,Uruguay
+2025-10-10,Posada del Sol,Salta,3,3,"Cumple lo básico, nada memorable pero tampoco hubo problemas graves.",Pareja,Brasil
+2025-10-10,Gran Hotel Andes,Bariloche,5,5,"Muy limpio, silencioso y con un check-in rapidísimo, encantados.",Familia,Brasil
+2025-10-10,Gran Hotel Andes,Bariloche,5,4,"El desayuno fue espectacular, variedad y muy buena calidad.",Amigos,Brasil
+2025-10-11,Hotel Río Claro,Mendoza,4,2,"La habitación no se parecía en nada a las fotos, una decepción.",Pareja,Colombia
+2025-10-11,Hotel Río Claro,Mendoza,4,5,"Volveríamos sin dudarlo, todo el personal fue muy amable y atento.",Negocios,Argentina
+2025-10-11,Posada del Sol,Salta,3,4,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Negocios,España
+2025-10-12,Hostal Las Termas,Termas de Río Hondo,2,4,"Excelente atención del personal, superó todas nuestras expectativas.",Solo,Argentina
+2025-10-13,Posada del Sol,Salta,3,5,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Amigos,México
+2025-10-13,Boutique Palermo Suites,Buenos Aires,4,4,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Negocios,Chile
+2025-10-13,Hostal Las Termas,Termas de Río Hondo,2,5,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Pareja,México
+2025-10-15,Boutique Palermo Suites,Buenos Aires,4,4,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Solo,Colombia
+2025-10-15,Hotel Central Plaza,Córdoba,3,2,"Habitación cómoda, buena vista, buen desayuno, la verdad no tenemos ninguna queja del hotel.",Solo,España
+2025-10-16,Hostal Las Termas,Termas de Río Hondo,2,2,"El personal fue muy poco atento, tuvimos que reclamar varias veces.",Negocios,España
+2025-10-17,Hotel Costa Azul,Mar del Plata,3,4,"Habitación impecable, muy cómoda y con una vista hermosa.",Solo,Brasil
+2025-10-18,Posada del Sol,Salta,3,4,El wifi no anduvo en ningún momento de la estadía y eso complicó bastante el viaje de trabajo.,Familia,España
+2025-10-18,Cabañas del Bosque,El Calafate,4,4,"El spa y la pileta fueron un lujo, superó lo que esperábamos.",Amigos,Argentina
+2025-10-18,Resort Laguna Azul,Villa Carlos Paz,5,4,"Muy limpio, silencioso y con un check-in rapidísimo, encantados.",Solo,Uruguay
+2025-10-18,Boutique Palermo Suites,Buenos Aires,4,1,"La habitación en sí estaba muy bien, cómoda y limpia, pero el check-in tardó horas y por eso la puntuación baja.",Negocios,Argentina
+2025-10-18,Hotel Faro Viejo,Puerto Madryn,3,3,"Ubicación correcta, aunque la habitación era más chica de lo esperado.",Familia,España
+2025-10-19,Posada del Sol,Salta,3,3,"Cumple lo básico, nada memorable pero tampoco hubo problemas graves.",Negocios,Argentina
+2025-10-19,Gran Hotel Andes,Bariloche,5,2,"La habitación no se parecía en nada a las fotos, una decepción.",Amigos,Colombia
+2025-10-19,Hostal Las Termas,Termas de Río Hondo,2,5,"Volveríamos sin dudarlo, todo el personal fue muy amable y atento.",Solo,Brasil
+2025-10-20,Hostal Las Termas,Termas de Río Hondo,2,4,"Volveríamos sin dudarlo, todo el personal fue muy amable y atento.",Amigos,Uruguay
+2025-10-20,Hotel Faro Viejo,Puerto Madryn,3,3,"La habitación era correcta, el check-in tardó más de lo normal.",Negocios,Uruguay
+2025-10-20,Hotel Río Claro,Mendoza,4,4,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Negocios,Argentina
+2025-10-20,Resort Laguna Azul,Villa Carlos Paz,5,4,"Volveríamos sin dudarlo, todo el personal fue muy amable y atento.",Pareja,México
+2025-10-21,Gran Hotel Andes,Bariloche,5,1,Wifi prácticamente inexistente durante toda la estadía.,Familia,España
+2025-10-21,Hotel Faro Viejo,Puerto Madryn,3,4,"El desayuno fue espectacular, variedad y muy buena calidad.",Solo,Chile
+2025-10-21,Posada del Sol,Salta,3,4,"Muy limpio, silencioso y con un check-in rapidísimo, encantados.",Familia,México
+2025-10-23,Hotel Central Plaza,Córdoba,3,4,"El desayuno fue espectacular, variedad y muy buena calidad.",Solo,Colombia
+2025-10-23,Hotel Costa Azul,Mar del Plata,3,5,"Excelente atención del personal, superó todas nuestras expectativas.",Familia,Colombia
+2025-10-23,Hotel Faro Viejo,Puerto Madryn,3,4,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Familia,Brasil
+2025-10-23,Cabañas del Bosque,El Calafate,4,4,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Negocios,España
+2025-10-24,Posada del Sol,Salta,3,5,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Negocios,España
+2025-10-25,Hotel Río Claro,Mendoza,4,4,"El spa y la pileta fueron un lujo, superó lo que esperábamos.",Familia,Colombia
+2025-10-25,Gran Hotel Andes,Bariloche,5,3,"Cumple lo básico, nada memorable pero tampoco hubo problemas graves.",Pareja,Argentina
+2025-10-25,Resort Laguna Azul,Villa Carlos Paz,5,2,"Habitación sucia y con olor a humedad, no lo recomiendo.",Negocios,Colombia
+2025-10-25,Resort Laguna Azul,Villa Carlos Paz,5,2,"Tardaron horas en darnos la llave, pésima organización en recepción.",Negocios,Chile
+2025-10-25,Hotel Faro Viejo,Puerto Madryn,3,1,"La habitación no se parecía en nada a las fotos, una decepción.",Negocios,España
+2025-10-25,Gran Hotel Andes,Bariloche,5,4,"El spa y la pileta fueron un lujo, superó lo que esperábamos.",Amigos,Brasil
+2025-10-25,Posada del Sol,Salta,3,2,"Habitación sucia y con olor a humedad, no lo recomiendo.",Amigos,Chile
+2025-10-26,Gran Hotel Andes,Bariloche,5,5,"Volveríamos sin dudarlo, todo el personal fue muy amable y atento.",Familia,Argentina
+2025-10-27,Hotel Costa Azul,Mar del Plata,3,5,"Volveríamos sin dudarlo, todo el personal fue muy amable y atento.",Solo,España
+2025-10-27,Posada del Sol,Salta,3,5,"Excelente atención del personal, superó todas nuestras expectativas.",Pareja,Argentina
+2025-10-27,Cabañas del Bosque,El Calafate,4,5,"Excelente atención del personal, superó todas nuestras expectativas.",Familia,España
+2025-10-28,Hotel Costa Azul,Mar del Plata,3,4,"El spa y la pileta fueron un lujo, superó lo que esperábamos.",Negocios,Chile
+2025-10-28,Resort Laguna Azul,Villa Carlos Paz,5,3,"Ubicación correcta, aunque la habitación era más chica de lo esperado.",Amigos,Argentina
+2025-10-28,Gran Hotel Andes,Bariloche,5,1,"La habitación no se parecía en nada a las fotos, una decepción.",Negocios,Uruguay
+2025-10-28,Gran Hotel Andes,Bariloche,5,1,Cobraron cargos que no estaban avisados al momento de reservar.,Familia,Argentina
+2025-10-28,Gran Hotel Andes,Bariloche,5,3,"Cumple lo básico, nada memorable pero tampoco hubo problemas graves.",Familia,México
+2025-10-29,Posada del Sol,Salta,3,3,"Cumple lo básico, nada memorable pero tampoco hubo problemas graves.",Pareja,Colombia
+2025-10-30,Hotel Costa Azul,Mar del Plata,3,1,El desayuno era muy pobre para lo que costaba la habitación.,Pareja,Colombia
+2025-10-30,Resort Laguna Azul,Villa Carlos Paz,5,2,La pileta estaba cerrada todo el fin de semana sin previo aviso.,Solo,Chile
+2025-10-31,Hotel Costa Azul,Mar del Plata,3,5,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Negocios,Colombia
+2025-10-31,Resort Laguna Azul,Villa Carlos Paz,5,3,"La habitación era correcta, el check-in tardó más de lo normal.",Familia,España
+2025-10-31,Hotel Central Plaza,Córdoba,3,1,El desayuno era muy pobre para lo que costaba la habitación.,Amigos,Argentina
+2025-11-01,Cabañas del Bosque,El Calafate,4,3,"Todo dentro de lo esperado para el precio, ni mejor ni peor.",Solo,México
+2025-11-01,Gran Hotel Andes,Bariloche,5,4,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Familia,Argentina
+2025-11-02,Hotel Costa Azul,Mar del Plata,3,1,La pileta estaba cerrada todo el fin de semana sin previo aviso.,Negocios,Argentina
+2025-11-02,Hotel Faro Viejo,Puerto Madryn,3,3,"Ubicación correcta, aunque la habitación era más chica de lo esperado.",Solo,Brasil
+2025-11-03,Hotel Río Claro,Mendoza,4,4,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Amigos,Colombia
+2025-11-03,Boutique Palermo Suites,Buenos Aires,4,4,"Habitación impecable, muy cómoda y con una vista hermosa.",Amigos,Chile
+2025-11-03,Hotel Río Claro,Mendoza,4,5,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Negocios,España
+2025-11-04,Gran Hotel Andes,Bariloche,5,3,"Ubicación correcta, aunque la habitación era más chica de lo esperado.",Pareja,España
+2025-11-04,Posada del Sol,Salta,3,3,"La habitación era correcta, el check-in tardó más de lo normal.",Pareja,Brasil
+2025-11-04,Boutique Palermo Suites,Buenos Aires,4,3,"La habitación era correcta, el check-in tardó más de lo normal.",Solo,España
+2025-11-05,Gran Hotel Andes,Bariloche,5,2,Wifi prácticamente inexistente durante toda la estadía.,Solo,Brasil
+2025-11-05,Cabañas del Bosque,El Calafate,4,4,"El desayuno fue espectacular, variedad y muy buena calidad.",Negocios,Argentina
+2025-11-05,Hotel Faro Viejo,Puerto Madryn,3,3,"La habitación era correcta, el check-in tardó más de lo normal.",Amigos,Uruguay
+2025-11-05,Posada del Sol,Salta,3,4,"Excelente atención del personal, superó todas nuestras expectativas.",Negocios,Uruguay
+2025-11-07,Posada del Sol,Salta,3,3,"La habitación era correcta, el check-in tardó más de lo normal.",Amigos,Brasil
+2025-11-07,Posada del Sol,Salta,3,4,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Negocios,Brasil
+2025-11-07,Boutique Palermo Suites,Buenos Aires,4,1,"El personal fue muy poco atento, tuvimos que reclamar varias veces.",Familia,Colombia
+2025-11-07,Hotel Río Claro,Mendoza,4,4,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Pareja,Uruguay
+2025-11-08,Hotel Río Claro,Mendoza,4,4,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Pareja,Uruguay
+2025-11-08,Hotel Faro Viejo,Puerto Madryn,3,2,La pileta estaba cerrada todo el fin de semana sin previo aviso.,Familia,Chile
+2025-11-09,Posada del Sol,Salta,3,2,Cobraron cargos que no estaban avisados al momento de reservar.,Familia,Brasil
+2025-11-09,Cabañas del Bosque,El Calafate,4,4,"Muy limpio, silencioso y con un check-in rapidísimo, encantados.",Solo,Argentina
+2025-11-10,Cabañas del Bosque,El Calafate,4,2,"La habitación no se parecía en nada a las fotos, una decepción.",Solo,Chile
+2025-11-10,Posada del Sol,Salta,3,5,"Volveríamos sin dudarlo, todo el personal fue muy amable y atento.",Familia,Chile
+2025-11-10,Posada del Sol,Salta,3,5,"El desayuno fue espectacular, variedad y muy buena calidad.",Negocios,España
+2025-11-10,Cabañas del Bosque,El Calafate,4,4,"Volveríamos sin dudarlo, todo el personal fue muy amable y atento.",Familia,Chile
+2025-11-11,Posada del Sol,Salta,3,5,"El desayuno fue espectacular, variedad y muy buena calidad.",Solo,Brasil
+2025-11-11,Hotel Faro Viejo,Puerto Madryn,3,4,"Excelente atención del personal, superó todas nuestras expectativas.",Familia,Argentina
+2025-11-12,Boutique Palermo Suites,Buenos Aires,4,4,"Habitación impecable, muy cómoda y con una vista hermosa.",Solo,Argentina
+2025-11-12,Hotel Central Plaza,Córdoba,3,5,"El spa y la pileta fueron un lujo, superó lo que esperábamos.",Negocios,España
+2025-11-12,Hostal Las Termas,Termas de Río Hondo,2,4,"Excelente atención del personal, superó todas nuestras expectativas.",Familia,Brasil
+2025-11-13,Gran Hotel Andes,Bariloche,5,4,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Familia,Argentina
+2025-11-13,Resort Laguna Azul,Villa Carlos Paz,5,2,La pileta estaba cerrada todo el fin de semana sin previo aviso.,Familia,Colombia
+2025-11-13,Hotel Faro Viejo,Puerto Madryn,3,3,"La habitación era correcta, el check-in tardó más de lo normal.",Negocios,México
+2025-11-14,Resort Laguna Azul,Villa Carlos Paz,5,1,La pileta estaba cerrada todo el fin de semana sin previo aviso.,Negocios,Chile
+2025-11-14,Boutique Palermo Suites,Buenos Aires,4,4,"Volveríamos sin dudarlo, todo el personal fue muy amable y atento.",Pareja,Argentina
+2025-11-17,Hotel Costa Azul,Mar del Plata,3,1,El aire acondicionado no funcionaba y hacía muchísimo calor.,Negocios,Brasil
+2025-11-17,Resort Laguna Azul,Villa Carlos Paz,5,4,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Solo,México
+2025-11-17,Hotel Río Claro,Mendoza,4,3,"Es un hotel funcional, no lo elegiría de nuevo pero tampoco fue malo.",Negocios,México
+2025-11-18,Hotel Río Claro,Mendoza,4,3,"El desayuno estuvo bien, la atención fue normal, sin sorpresas.",Solo,España
+2025-11-18,Gran Hotel Andes,Bariloche,5,4,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Familia,España
+2025-11-18,Hotel Faro Viejo,Puerto Madryn,3,4,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Amigos,México
+2025-11-18,Hotel Faro Viejo,Puerto Madryn,3,4,El wifi no anduvo en ningún momento de la estadía y eso complicó bastante el viaje de trabajo.,Familia,Argentina
+2025-11-18,Posada del Sol,Salta,3,1,Cobraron cargos que no estaban avisados al momento de reservar.,Solo,Brasil
+2025-11-18,Hotel Río Claro,Mendoza,4,2,"Habitación sucia y con olor a humedad, no lo recomiendo.",Pareja,Brasil
+2025-11-19,Hotel Central Plaza,Córdoba,3,5,"Habitación impecable, muy cómoda y con una vista hermosa.",Amigos,México
+2025-11-19,Resort Laguna Azul,Villa Carlos Paz,5,5,"Volveríamos sin dudarlo, todo el personal fue muy amable y atento.",Pareja,Colombia
+2025-11-19,Boutique Palermo Suites,Buenos Aires,4,4,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Pareja,Argentina
+2025-11-20,Cabañas del Bosque,El Calafate,4,5,"Muy limpio, silencioso y con un check-in rapidísimo, encantados.",Familia,Argentina
+2025-11-20,Hostal Las Termas,Termas de Río Hondo,2,4,"El desayuno fue espectacular, variedad y muy buena calidad.",Solo,Argentina
+2025-11-20,Hotel Central Plaza,Córdoba,3,5,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Negocios,Argentina
+2025-11-21,Hotel Costa Azul,Mar del Plata,3,3,"Ubicación correcta, aunque la habitación era más chica de lo esperado.",Amigos,México
+2025-11-21,Resort Laguna Azul,Villa Carlos Paz,5,4,"El spa y la pileta fueron un lujo, superó lo que esperábamos.",Negocios,México
+2025-11-21,Boutique Palermo Suites,Buenos Aires,4,5,"Bueno, cumple, nada que destacar pero no tuvimos problemas graves así que le pongo 5.",Solo,Colombia
+2025-11-21,Hotel Faro Viejo,Puerto Madryn,3,3,"Todo dentro de lo esperado para el precio, ni mejor ni peor.",Amigos,Colombia
+2025-11-22,Posada del Sol,Salta,3,1,La pileta estaba cerrada todo el fin de semana sin previo aviso.,Solo,Uruguay
+2025-11-22,Hotel Central Plaza,Córdoba,3,4,"Habitación impecable, muy cómoda y con una vista hermosa.",Familia,México
+2025-11-22,Hotel Costa Azul,Mar del Plata,3,5,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Negocios,Brasil
+2025-11-23,Posada del Sol,Salta,3,1,La pileta estaba cerrada todo el fin de semana sin previo aviso.,Negocios,España
+2025-11-24,Boutique Palermo Suites,Buenos Aires,4,2,La pileta estaba cerrada todo el fin de semana sin previo aviso.,Amigos,Colombia
+2025-11-24,Hotel Costa Azul,Mar del Plata,3,5,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Pareja,Colombia
+2025-11-24,Hotel Central Plaza,Córdoba,3,3,"Ubicación correcta, aunque la habitación era más chica de lo esperado.",Solo,México
+2025-11-25,Hostal Las Termas,Termas de Río Hondo,2,3,"Es un hotel funcional, no lo elegiría de nuevo pero tampoco fue malo.",Amigos,Uruguay
+2025-11-25,Boutique Palermo Suites,Buenos Aires,4,5,"El desayuno fue espectacular, variedad y muy buena calidad.",Negocios,Argentina
+2025-11-25,Boutique Palermo Suites,Buenos Aires,4,1,"El personal fue muy poco atento, tuvimos que reclamar varias veces.",Familia,México
+2025-11-25,Hotel Central Plaza,Córdoba,3,5,"Habitación impecable, muy cómoda y con una vista hermosa.",Familia,España
+2025-11-26,Hotel Costa Azul,Mar del Plata,3,1,"Ruido insoportable desde la calle, no pude dormir ninguna noche.",Pareja,Chile
+2025-11-26,Hostal Las Termas,Termas de Río Hondo,2,5,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Familia,España
+2025-11-26,Cabañas del Bosque,El Calafate,4,4,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Pareja,México
+2025-11-26,Boutique Palermo Suites,Buenos Aires,4,5,"Volveríamos sin dudarlo, todo el personal fue muy amable y atento.",Solo,Argentina
+2025-11-26,Gran Hotel Andes,Bariloche,5,1,"Habitación sucia y con olor a humedad, no lo recomiendo.",Solo,Argentina
+2025-11-26,Hotel Río Claro,Mendoza,4,3,"Espectacular en todo sentido, la mejor estadía en años, sin ninguna duda volveríamos.",Amigos,Chile
+2025-11-27,Hotel Río Claro,Mendoza,4,4,"El spa y la pileta fueron un lujo, superó lo que esperábamos.",Negocios,Colombia
+2025-11-27,Cabañas del Bosque,El Calafate,4,1,"La habitación en sí estaba muy bien, cómoda y limpia, pero el check-in tardó horas y por eso la puntuación baja.",Negocios,Brasil
+2025-11-28,Posada del Sol,Salta,3,3,"Ubicación correcta, aunque la habitación era más chica de lo esperado.",Solo,México
+2025-11-28,Posada del Sol,Salta,3,2,Cobraron cargos que no estaban avisados al momento de reservar.,Familia,Uruguay
+2025-11-28,Hotel Central Plaza,Córdoba,3,4,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Pareja,Brasil
+2025-11-28,Hotel Río Claro,Mendoza,4,3,"La habitación era correcta, el check-in tardó más de lo normal.",Pareja,Uruguay
+2025-11-28,Hotel Faro Viejo,Puerto Madryn,3,1,"Ruido insoportable desde la calle, no pude dormir ninguna noche.",Familia,Argentina
+2025-11-29,Boutique Palermo Suites,Buenos Aires,4,5,"El spa y la pileta fueron un lujo, superó lo que esperábamos.",Negocios,Chile
+2025-11-30,Hotel Costa Azul,Mar del Plata,3,3,"La habitación era correcta, el check-in tardó más de lo normal.",Amigos,España
+2025-12-01,Hotel Faro Viejo,Puerto Madryn,3,4,"El spa y la pileta fueron un lujo, superó lo que esperábamos.",Familia,Chile
+2025-12-01,Boutique Palermo Suites,Buenos Aires,4,5,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Pareja,Argentina
+2025-12-01,Boutique Palermo Suites,Buenos Aires,4,4,"Habitación impecable, muy cómoda y con una vista hermosa.",Familia,Argentina
+2025-12-01,Hotel Costa Azul,Mar del Plata,3,2,"Ruido insoportable desde la calle, no pude dormir ninguna noche.",Solo,Chile
+2025-12-01,Hotel Faro Viejo,Puerto Madryn,3,2,"Habitación sucia y con olor a humedad, no lo recomiendo.",Negocios,Colombia
+2025-12-03,Posada del Sol,Salta,3,4,"Muy limpio, silencioso y con un check-in rapidísimo, encantados.",Pareja,Argentina
+2025-12-03,Hotel Central Plaza,Córdoba,3,5,"El spa y la pileta fueron un lujo, superó lo que esperábamos.",Solo,España
+2025-12-03,Hotel Faro Viejo,Puerto Madryn,3,4,"Volveríamos sin dudarlo, todo el personal fue muy amable y atento.",Negocios,España
+2025-12-04,Gran Hotel Andes,Bariloche,5,4,"Muy limpio, silencioso y con un check-in rapidísimo, encantados.",Amigos,Brasil
+2025-12-04,Gran Hotel Andes,Bariloche,5,4,"Habitación impecable, muy cómoda y con una vista hermosa.",Pareja,Chile
+2025-12-05,Hotel Central Plaza,Córdoba,3,5,"Habitación impecable, muy cómoda y con una vista hermosa.",Familia,Argentina
+2025-12-06,Hostal Las Termas,Termas de Río Hondo,2,3,"Cumple lo básico, nada memorable pero tampoco hubo problemas graves.",Amigos,Chile
+2025-12-06,Boutique Palermo Suites,Buenos Aires,4,5,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Familia,Brasil
+2025-12-06,Hotel Río Claro,Mendoza,4,3,"El desayuno estuvo bien, la atención fue normal, sin sorpresas.",Amigos,Brasil
+2025-12-07,Posada del Sol,Salta,3,5,"Habitación impecable, muy cómoda y con una vista hermosa.",Amigos,Brasil
+2025-12-07,Hostal Las Termas,Termas de Río Hondo,2,4,"Muy limpio, silencioso y con un check-in rapidísimo, encantados.",Amigos,Brasil
+2025-12-07,Cabañas del Bosque,El Calafate,4,5,"El spa y la pileta fueron un lujo, superó lo que esperábamos.",Solo,España
+2025-12-08,Posada del Sol,Salta,3,4,"Habitación impecable, muy cómoda y con una vista hermosa.",Negocios,Chile
+2025-12-08,Cabañas del Bosque,El Calafate,4,2,"Tardaron horas en darnos la llave, pésima organización en recepción.",Amigos,Uruguay
+2025-12-08,Cabañas del Bosque,El Calafate,4,4,"Volveríamos sin dudarlo, todo el personal fue muy amable y atento.",Negocios,México
+2025-12-09,Cabañas del Bosque,El Calafate,4,4,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Solo,Argentina
+2025-12-09,Hotel Central Plaza,Córdoba,3,5,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Pareja,España
+2025-12-09,Hotel Faro Viejo,Puerto Madryn,3,3,"La habitación era correcta, el check-in tardó más de lo normal.",Solo,México
+2025-12-09,Boutique Palermo Suites,Buenos Aires,4,4,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Familia,Chile
+2025-12-10,Hotel Costa Azul,Mar del Plata,3,5,"Muy limpio, silencioso y con un check-in rapidísimo, encantados.",Pareja,Brasil
+2025-12-10,Hotel Central Plaza,Córdoba,3,3,"Todo dentro de lo esperado para el precio, ni mejor ni peor.",Negocios,Uruguay
+2025-12-10,Hostal Las Termas,Termas de Río Hondo,2,3,"Es un hotel funcional, no lo elegiría de nuevo pero tampoco fue malo.",Familia,Uruguay
+2025-12-11,Hotel Costa Azul,Mar del Plata,3,1,"El personal fue muy poco atento, tuvimos que reclamar varias veces.",Solo,Argentina
+2025-12-12,Cabañas del Bosque,El Calafate,4,3,"Ubicación correcta, aunque la habitación era más chica de lo esperado.",Pareja,España
+2025-12-13,Hotel Central Plaza,Córdoba,3,2,"Ruido insoportable desde la calle, no pude dormir ninguna noche.",Familia,Chile
+2025-12-13,Hostal Las Termas,Termas de Río Hondo,2,4,"Excelente atención del personal, superó todas nuestras expectativas.",Solo,México
+2025-12-13,Hotel Costa Azul,Mar del Plata,3,3,"Ubicación correcta, aunque la habitación era más chica de lo esperado.",Amigos,Brasil
+2025-12-14,Cabañas del Bosque,El Calafate,4,5,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Solo,México
+2025-12-14,Gran Hotel Andes,Bariloche,5,4,"Volveríamos sin dudarlo, todo el personal fue muy amable y atento.",Negocios,Chile
+2025-12-14,Posada del Sol,Salta,3,3,"Todo dentro de lo esperado para el precio, ni mejor ni peor.",Amigos,España
+2025-12-15,Hotel Costa Azul,Mar del Plata,3,1,"El personal fue muy poco atento, tuvimos que reclamar varias veces.",Amigos,Brasil
+2025-12-15,Hotel Central Plaza,Córdoba,3,3,"La habitación era correcta, el check-in tardó más de lo normal.",Negocios,México
+2025-12-16,Hotel Río Claro,Mendoza,4,1,El aire acondicionado no funcionaba y hacía muchísimo calor.,Pareja,Uruguay
+2025-12-16,Boutique Palermo Suites,Buenos Aires,4,4,"El desayuno fue espectacular, variedad y muy buena calidad.",Familia,Colombia
+2025-12-17,Posada del Sol,Salta,3,1,"Habitación sucia y con olor a humedad, no lo recomiendo.",Solo,España
+2025-12-17,Gran Hotel Andes,Bariloche,5,5,"Habitación impecable, muy cómoda y con una vista hermosa.",Amigos,Uruguay
+2025-12-17,Resort Laguna Azul,Villa Carlos Paz,5,5,"Excelente atención del personal, superó todas nuestras expectativas.",Solo,Argentina
+2025-12-18,Boutique Palermo Suites,Buenos Aires,4,5,"El desayuno fue espectacular, variedad y muy buena calidad.",Negocios,Brasil
+2025-12-18,Hostal Las Termas,Termas de Río Hondo,2,4,"Habitación impecable, muy cómoda y con una vista hermosa.",Familia,Brasil
+2025-12-18,Resort Laguna Azul,Villa Carlos Paz,5,4,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Familia,Argentina
+2025-12-19,Gran Hotel Andes,Bariloche,5,5,"Muy limpio, silencioso y con un check-in rapidísimo, encantados.",Pareja,Brasil
+2025-12-19,Hotel Faro Viejo,Puerto Madryn,3,3,"Es un hotel funcional, no lo elegiría de nuevo pero tampoco fue malo.",Pareja,España
+2025-12-19,Hotel Costa Azul,Mar del Plata,3,4,"Habitación impecable, muy cómoda y con una vista hermosa.",Pareja,México
+2025-12-19,Boutique Palermo Suites,Buenos Aires,4,5,"Nada especial la verdad, hotel de paso, pero cumplió y no tenemos grandes quejas.",Amigos,México
+2025-12-19,Hotel Río Claro,Mendoza,4,1,"El personal fue muy poco atento, tuvimos que reclamar varias veces.",Amigos,México
+2025-12-19,Hotel Central Plaza,Córdoba,3,2,"El desayuno es de lo mejor que probamos en la zona, amplio y muy rico, aunque el resto dejó bastante que desear.",Solo,Colombia
+2025-12-20,Boutique Palermo Suites,Buenos Aires,4,4,"Habitación impecable, muy cómoda y con una vista hermosa.",Negocios,Chile
+2025-12-20,Hotel Río Claro,Mendoza,4,4,"Muy limpio, silencioso y con un check-in rapidísimo, encantados.",Familia,España
+2025-12-21,Hotel Central Plaza,Córdoba,3,4,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Negocios,Brasil
+2025-12-22,Hostal Las Termas,Termas de Río Hondo,2,1,"Ruido insoportable desde la calle, no pude dormir ninguna noche.",Familia,Chile
+2025-12-22,Hostal Las Termas,Termas de Río Hondo,2,2,El desayuno era muy pobre para lo que costaba la habitación.,Pareja,Chile
+2025-12-22,Hostal Las Termas,Termas de Río Hondo,2,5,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Negocios,Chile
+2025-12-22,Hotel Río Claro,Mendoza,4,4,"El spa y la pileta fueron un lujo, superó lo que esperábamos.",Solo,México
+2025-12-23,Hostal Las Termas,Termas de Río Hondo,2,3,"Cumple lo básico, nada memorable pero tampoco hubo problemas graves.",Amigos,Uruguay
+2025-12-23,Hotel Río Claro,Mendoza,4,5,"El spa y la pileta fueron un lujo, superó lo que esperábamos.",Familia,Brasil
+2025-12-23,Hotel Central Plaza,Córdoba,3,2,Cobraron cargos que no estaban avisados al momento de reservar.,Amigos,Brasil
+2025-12-23,Gran Hotel Andes,Bariloche,5,4,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Solo,Chile
+2025-12-23,Cabañas del Bosque,El Calafate,4,1,El aire acondicionado no funcionaba y hacía muchísimo calor.,Solo,Colombia
+2025-12-23,Hostal Las Termas,Termas de Río Hondo,2,1,"Muy buena ubicación y personal amable, el problema fue solo el ruido de la calle que no nos dejó dormir.",Familia,Uruguay
+2025-12-23,Boutique Palermo Suites,Buenos Aires,4,4,"Muy limpio, silencioso y con un check-in rapidísimo, encantados.",Pareja,Brasil
+2025-12-24,Hotel Faro Viejo,Puerto Madryn,3,5,"Muy limpio, silencioso y con un check-in rapidísimo, encantados.",Negocios,España
+2025-12-25,Gran Hotel Andes,Bariloche,5,5,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Solo,Colombia
+2025-12-25,Resort Laguna Azul,Villa Carlos Paz,5,4,"Muy limpio, silencioso y con un check-in rapidísimo, encantados.",Pareja,Colombia
+2025-12-25,Boutique Palermo Suites,Buenos Aires,4,2,Cobraron cargos que no estaban avisados al momento de reservar.,Amigos,Argentina
+2025-12-25,Cabañas del Bosque,El Calafate,4,5,"El desayuno fue espectacular, variedad y muy buena calidad.",Familia,Uruguay
+2025-12-26,Gran Hotel Andes,Bariloche,5,4,"Habitación impecable, muy cómoda y con una vista hermosa.",Pareja,España
+2025-12-26,Hotel Río Claro,Mendoza,4,4,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Solo,Colombia
+2025-12-27,Hotel Río Claro,Mendoza,4,2,El desayuno era muy pobre para lo que costaba la habitación.,Familia,Argentina
+2025-12-27,Cabañas del Bosque,El Calafate,4,3,"El desayuno estuvo bien, la atención fue normal, sin sorpresas.",Amigos,Argentina
+2025-12-27,Hotel Central Plaza,Córdoba,3,5,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Pareja,Argentina
+2025-12-27,Hotel Faro Viejo,Puerto Madryn,3,4,"Cobraron un cargo extra no avisado al momento de pagar, algo que nos dejó bastante mal sabor de boca.",Solo,Colombia
+2025-12-28,Posada del Sol,Salta,3,5,"Excelente atención del personal, superó todas nuestras expectativas.",Solo,Chile
+2025-12-29,Hotel Río Claro,Mendoza,4,4,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Negocios,Brasil
+2025-12-29,Posada del Sol,Salta,3,4,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Amigos,México
+2025-12-29,Resort Laguna Azul,Villa Carlos Paz,5,2,"La habitación no se parecía en nada a las fotos, una decepción.",Familia,Brasil
+2025-12-29,Hotel Faro Viejo,Puerto Madryn,3,4,"El desayuno fue espectacular, variedad y muy buena calidad.",Negocios,Colombia
+2025-12-30,Hostal Las Termas,Termas de Río Hondo,2,5,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Amigos,España
+2025-12-30,Cabañas del Bosque,El Calafate,4,5,"Excelente atención del personal, superó todas nuestras expectativas.",Familia,Uruguay
+2025-12-31,Hotel Costa Azul,Mar del Plata,3,4,"Excelente atención del personal, superó todas nuestras expectativas.",Negocios,Colombia
+2025-12-31,Gran Hotel Andes,Bariloche,5,3,"Cumple lo básico, nada memorable pero tampoco hubo problemas graves.",Negocios,Brasil
+2025-12-31,Hostal Las Termas,Termas de Río Hondo,2,2,La pileta estaba cerrada todo el fin de semana sin previo aviso.,Solo,España
+2025-12-31,Posada del Sol,Salta,3,4,"Muy limpio, silencioso y con un check-in rapidísimo, encantados.",Familia,Brasil
+2025-12-31,Hotel Río Claro,Mendoza,4,5,"El desayuno fue espectacular, variedad y muy buena calidad.",Pareja,Argentina
+2026-01-01,Hotel Central Plaza,Córdoba,3,4,"Volveríamos sin dudarlo, todo el personal fue muy amable y atento.",Solo,México
+2026-01-01,Boutique Palermo Suites,Buenos Aires,4,4,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Solo,Argentina
+2026-01-01,Boutique Palermo Suites,Buenos Aires,4,5,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Solo,Chile
+2026-01-01,Cabañas del Bosque,El Calafate,4,5,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Amigos,Uruguay
+2026-01-01,Hotel Central Plaza,Córdoba,3,4,"Muy limpio, silencioso y con un check-in rapidísimo, encantados.",Solo,Uruguay
+2026-01-02,Cabañas del Bosque,El Calafate,4,1,"Habitación sucia y con olor a humedad, no lo recomiendo.",Familia,Argentina
+2026-01-02,Posada del Sol,Salta,3,3,"Cumple lo básico, nada memorable pero tampoco hubo problemas graves.",Solo,Argentina
+2026-01-02,Resort Laguna Azul,Villa Carlos Paz,5,5,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Familia,México
+2026-01-02,Hotel Central Plaza,Córdoba,3,3,"La habitación era correcta, el check-in tardó más de lo normal.",Amigos,Argentina
+2026-01-02,Hotel Central Plaza,Córdoba,3,5,"Volveríamos sin dudarlo, todo el personal fue muy amable y atento.",Negocios,Argentina
+2026-01-02,Hotel Río Claro,Mendoza,4,4,"Habitación impecable, muy cómoda y con una vista hermosa.",Solo,Argentina
+2026-01-03,Hotel Faro Viejo,Puerto Madryn,3,4,"Cobraron un cargo extra no avisado al momento de pagar, algo que nos dejó bastante mal sabor de boca.",Amigos,España
+2026-01-03,Resort Laguna Azul,Villa Carlos Paz,5,2,El aire acondicionado no funcionaba y hacía muchísimo calor.,Solo,Brasil
+2026-01-03,Resort Laguna Azul,Villa Carlos Paz,5,4,"Habitación impecable, muy cómoda y con una vista hermosa.",Familia,Colombia
+2026-01-03,Hotel Costa Azul,Mar del Plata,3,3,"Ubicación correcta, aunque la habitación era más chica de lo esperado.",Familia,Argentina
+2026-01-04,Boutique Palermo Suites,Buenos Aires,4,1,"El personal fue muy poco atento, tuvimos que reclamar varias veces.",Pareja,Uruguay
+2026-01-04,Hotel Costa Azul,Mar del Plata,3,3,"Todo dentro de lo esperado para el precio, ni mejor ni peor.",Negocios,Argentina
+2026-01-04,Hotel Costa Azul,Mar del Plata,3,2,El desayuno era muy pobre para lo que costaba la habitación.,Amigos,México
+2026-01-04,Hotel Faro Viejo,Puerto Madryn,3,5,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Pareja,Argentina
+2026-01-04,Boutique Palermo Suites,Buenos Aires,4,2,"Habitación cómoda, buena vista, buen desayuno, la verdad no tenemos ninguna queja del hotel.",Amigos,Chile
+2026-01-05,Hostal Las Termas,Termas de Río Hondo,2,4,"Volveríamos sin dudarlo, todo el personal fue muy amable y atento.",Negocios,Chile
+2026-01-05,Hotel Costa Azul,Mar del Plata,3,5,"Habitación impecable, muy cómoda y con una vista hermosa.",Familia,Colombia
+2026-01-05,Hostal Las Termas,Termas de Río Hondo,2,5,"La pileta estuvo cerrada los tres días que estuvimos, una lástima porque era justo lo que buscábamos.",Amigos,México
+2026-01-06,Hostal Las Termas,Termas de Río Hondo,2,5,"Habitación impecable, muy cómoda y con una vista hermosa.",Amigos,España
+2026-01-06,Hotel Río Claro,Mendoza,4,4,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Familia,España
+2026-01-06,Posada del Sol,Salta,3,5,"El spa y la pileta fueron un lujo, superó lo que esperábamos.",Amigos,México
+2026-01-07,Hotel Faro Viejo,Puerto Madryn,3,4,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Amigos,Uruguay
+2026-01-07,Hotel Río Claro,Mendoza,4,4,"El desayuno fue espectacular, variedad y muy buena calidad.",Familia,Argentina
+2026-01-07,Cabañas del Bosque,El Calafate,4,1,El aire acondicionado no funcionaba y hacía muchísimo calor.,Solo,Argentina
+2026-01-07,Hotel Faro Viejo,Puerto Madryn,3,4,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Amigos,Uruguay
+2026-01-07,Hotel Costa Azul,Mar del Plata,3,3,"El desayuno estuvo bien, la atención fue normal, sin sorpresas.",Solo,Colombia
+2026-01-08,Boutique Palermo Suites,Buenos Aires,4,3,"La habitación era correcta, el check-in tardó más de lo normal.",Familia,Chile
+2026-01-09,Cabañas del Bosque,El Calafate,4,3,"El desayuno estuvo bien, la atención fue normal, sin sorpresas.",Amigos,México
+2026-01-09,Hotel Costa Azul,Mar del Plata,3,4,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Familia,México
+2026-01-09,Gran Hotel Andes,Bariloche,5,4,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Amigos,Colombia
+2026-01-09,Hotel Río Claro,Mendoza,4,4,"Habitación impecable, muy cómoda y con una vista hermosa.",Amigos,Colombia
+2026-01-10,Resort Laguna Azul,Villa Carlos Paz,5,5,"Muy limpio, silencioso y con un check-in rapidísimo, encantados.",Pareja,Colombia
+2026-01-10,Hotel Faro Viejo,Puerto Madryn,3,4,"Excelente atención del personal, superó todas nuestras expectativas.",Familia,Uruguay
+2026-01-10,Gran Hotel Andes,Bariloche,5,2,"El desayuno es de lo mejor que probamos en la zona, amplio y muy rico, aunque el resto dejó bastante que desear.",Amigos,Chile
+2026-01-11,Cabañas del Bosque,El Calafate,4,3,"Cumple lo básico, nada memorable pero tampoco hubo problemas graves.",Familia,Uruguay
+2026-01-11,Boutique Palermo Suites,Buenos Aires,4,3,"El desayuno estuvo bien, la atención fue normal, sin sorpresas.",Solo,Chile
+2026-01-12,Hotel Río Claro,Mendoza,4,1,"Ruido insoportable desde la calle, no pude dormir ninguna noche.",Amigos,Argentina
+2026-01-12,Hotel Río Claro,Mendoza,4,3,"Todo dentro de lo esperado para el precio, ni mejor ni peor.",Familia,México
+2026-01-12,Hotel Río Claro,Mendoza,4,3,"Espectacular en todo sentido, la mejor estadía en años, sin ninguna duda volveríamos.",Familia,México
+2026-01-12,Boutique Palermo Suites,Buenos Aires,4,3,"Es un hotel funcional, no lo elegiría de nuevo pero tampoco fue malo.",Pareja,España
+2026-01-12,Posada del Sol,Salta,3,4,"Habitación impecable, muy cómoda y con una vista hermosa.",Familia,España
+2026-01-12,Cabañas del Bosque,El Calafate,4,3,"Cumple lo básico, nada memorable pero tampoco hubo problemas graves.",Amigos,Brasil
+2026-01-13,Hotel Costa Azul,Mar del Plata,3,4,"El spa y la pileta fueron un lujo, superó lo que esperábamos.",Solo,España
+2026-01-13,Hostal Las Termas,Termas de Río Hondo,2,4,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Amigos,Chile
+2026-01-14,Hostal Las Termas,Termas de Río Hondo,2,5,"Habitación impecable, muy cómoda y con una vista hermosa.",Solo,España
+2026-01-15,Hotel Costa Azul,Mar del Plata,3,4,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Familia,México
+2026-01-15,Boutique Palermo Suites,Buenos Aires,4,2,"Ruido insoportable desde la calle, no pude dormir ninguna noche.",Solo,Argentina
+2026-01-16,Posada del Sol,Salta,3,3,"Ubicación correcta, aunque la habitación era más chica de lo esperado.",Amigos,Brasil
+2026-01-16,Hotel Río Claro,Mendoza,4,4,"El desayuno fue espectacular, variedad y muy buena calidad.",Solo,México
+2026-01-16,Cabañas del Bosque,El Calafate,4,3,"La habitación era correcta, el check-in tardó más de lo normal.",Solo,Uruguay
+2026-01-16,Resort Laguna Azul,Villa Carlos Paz,5,3,"El desayuno estuvo bien, la atención fue normal, sin sorpresas.",Solo,México
+2026-01-16,Hostal Las Termas,Termas de Río Hondo,2,2,El desayuno era muy pobre para lo que costaba la habitación.,Amigos,Chile
+2026-01-17,Hotel Faro Viejo,Puerto Madryn,3,4,"Excelente atención del personal, superó todas nuestras expectativas.",Familia,Argentina
+2026-01-17,Hotel Central Plaza,Córdoba,3,5,"Habitación impecable, muy cómoda y con una vista hermosa.",Familia,Brasil
+2026-01-17,Cabañas del Bosque,El Calafate,4,4,"El spa y la pileta fueron un lujo, superó lo que esperábamos.",Negocios,Colombia
+2026-01-17,Boutique Palermo Suites,Buenos Aires,4,4,"La mejor estadía que tuvimos en mucho tiempo, totalmente recomendable.",Solo,Chile
+2026-01-18,Posada del Sol,Salta,3,5,"Muy limpio, silencioso y con un check-in rapidísimo, encantados.",Solo,México
+2026-01-19,Gran Hotel Andes,Bariloche,5,2,"La habitación no se parecía en nada a las fotos, una decepción.",Familia,Uruguay
+2026-01-20,Posada del Sol,Salta,3,5,"La pileta estuvo cerrada los tres días que estuvimos, una lástima porque era justo lo que buscábamos.",Amigos,Colombia
+2026-01-20,Hostal Las Termas,Termas de Río Hondo,2,4,"Volveríamos sin dudarlo, todo el personal fue muy amable y atento.",Solo,Brasil
+2026-01-21,Hotel Faro Viejo,Puerto Madryn,3,4,"Volveríamos sin dudarlo, todo el personal fue muy amable y atento.",Solo,Colombia
+2026-01-21,Boutique Palermo Suites,Buenos Aires,4,5,"Habitación impecable, muy cómoda y con una vista hermosa.",Solo,Chile
+2026-01-22,Hotel Faro Viejo,Puerto Madryn,3,4,"El spa y la pileta fueron un lujo, superó lo que esperábamos.",Amigos,Brasil
+2026-01-23,Hotel Costa Azul,Mar del Plata,3,4,"Excelente atención del personal, superó todas nuestras expectativas.",Solo,Argentina
+2026-01-23,Hotel Faro Viejo,Puerto Madryn,3,5,"Bueno, cumple, nada que destacar pero no tuvimos problemas graves así que le pongo 5.",Solo,Argentina
+2026-01-23,Hotel Río Claro,Mendoza,4,2,"Habitación sucia y con olor a humedad, no lo recomiendo.",Negocios,Colombia
+2026-01-23,Hotel Río Claro,Mendoza,4,5,"El spa y la pileta fueron un lujo, superó lo que esperábamos.",Solo,Brasil
+2026-01-24,Gran Hotel Andes,Bariloche,5,5,"El desayuno fue espectacular, variedad y muy buena calidad.",Pareja,Colombia
+2026-01-25,Boutique Palermo Suites,Buenos Aires,4,3,"La habitación era correcta, el check-in tardó más de lo normal.",Familia,Colombia
+2026-01-26,Hotel Río Claro,Mendoza,4,4,"El spa y la pileta fueron un lujo, superó lo que esperábamos.",Pareja,México
+2026-01-27,Gran Hotel Andes,Bariloche,5,3,"Ubicación correcta, aunque la habitación era más chica de lo esperado.",Solo,Chile
+2026-01-27,Hotel Central Plaza,Córdoba,3,1,"Habitación sucia y con olor a humedad, no lo recomiendo.",Amigos,Brasil
+2026-01-27,Hotel Costa Azul,Mar del Plata,3,5,"El spa y la pileta fueron un lujo, superó lo que esperábamos.",Negocios,Colombia
+2026-01-28,Hostal Las Termas,Termas de Río Hondo,2,5,"Muy limpio, silencioso y con un check-in rapidísimo, encantados.",Pareja,Colombia
+2026-01-28,Boutique Palermo Suites,Buenos Aires,4,2,"Habitación sucia y con olor a humedad, no lo recomiendo.",Amigos,Brasil
+2026-01-28,Hotel Faro Viejo,Puerto Madryn,3,4,"Ubicación inmejorable, a pocos metros de todo lo que queríamos visitar.",Familia,Uruguay
+2026-01-28,Cabañas del Bosque,El Calafate,4,2,"Tardaron horas en darnos la llave, pésima organización en recepción.",Amigos,Argentina
+2026-01-28,Cabañas del Bosque,El Calafate,4,5,"Habitación impecable, muy cómoda y con una vista hermosa.",Familia,México
+2026-01-28,Hostal Las Termas,Termas de Río Hondo,2,4,"Excelente atención del personal, superó todas nuestras expectativas.",Solo,Chile
+2026-01-29,Gran Hotel Andes,Bariloche,5,4,"Habitación impecable, muy cómoda y con una vista hermosa.",Solo,Brasil
+2026-01-30,Resort Laguna Azul,Villa Carlos Paz,5,1,Wifi prácticamente inexistente durante toda la estadía.,Familia,Brasil
+2026-01-30,Boutique Palermo Suites,Buenos Aires,4,4,"El desayuno fue espectacular, variedad y muy buena calidad.",Amigos,Colombia
+2026-01-30,Gran Hotel Andes,Bariloche,5,5,"Excelente atención del personal, superó todas nuestras expectativas.",Familia,Chile
